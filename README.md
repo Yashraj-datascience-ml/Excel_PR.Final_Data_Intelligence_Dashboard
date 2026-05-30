@@ -57,7 +57,7 @@ This repository contains an interactive Excel dashboard that provides insights i
 
 ## 📸 Dashboard Preview
 
-![Dashboard Output](Excel_PR.Final_Project.png)
+![Dashboard Output](Excel_PR.Final_Project_Output.png)
 
 ## 🎓 Learning Outcomes
 
